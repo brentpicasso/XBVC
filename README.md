@@ -64,6 +64,7 @@ For example:
 1. Python 2.7
 2. pyyaml (via pip)
 3. jinja2 (via pip)
+4. python-dev
 
 ## Installation
 1. Clone repository
